@@ -5,7 +5,7 @@ Minimal Tic Tac Toe game made with reactivity and state.
 Features:
 
 - Modern and minimal UI
-- Game history
+- Game history (you can navigate through the history)
 
 [Check the game out.](https://3qual1.github.io/tic-tac-toe-react/)
 
