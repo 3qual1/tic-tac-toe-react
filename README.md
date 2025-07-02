@@ -7,7 +7,7 @@ Features:
 - Modern and minimal UI
 - Game history
 
-[Check the game out.]()
+[Check the game out.](https://3qual1.github.io/tic-tac-toe-react/)
 
 ## General Info
 
