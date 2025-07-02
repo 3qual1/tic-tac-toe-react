@@ -36,7 +36,7 @@ body {
 .game__board {
     display: grid;
     grid-template-columns: repeat(3, 50px);
-    grid-auto-rows: 50px;
+    grid-template-rows: repeat(3, 50px);
 }
 
 .game__history {
@@ -68,7 +68,7 @@ body {
 
     display: grid;
     grid-template-columns: repeat(3, 20px);
-    grid-auto-rows: 20px;
+    grid-template-rows: repeat(3, 20px);
 
     padding: 1rem;
     border: none;
@@ -86,6 +86,8 @@ body {
 
 .game__history__board__square,
 .square {
+    aspect-ratio: 1;
+
     font-size: 24px;
     font-weight: bold;
     padding: 0;

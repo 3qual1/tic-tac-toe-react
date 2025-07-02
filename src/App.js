@@ -77,7 +77,7 @@ export default function Game () {
     }
 
     const moves = history.map((historySegment, move) => {
-        let historyBoard = historySegment.map((el) => {
+        let historyBoard = historySegment.map((el, index) => {
             let className = 'game__history__board__square ';
             if (!el) {
                 className += 'square--empty';
@@ -89,7 +89,7 @@ export default function Game () {
                 }
             }
             return (
-                <div className={className}></div>
+                <div key={index} className={className}></div>
             );
         })
 
