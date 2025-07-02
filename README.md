@@ -5,11 +5,13 @@ Minimal Tic Tac Toe game made with reactivity and state.
 Features:
 
 - Modern and minimal UI
-- Game history (you can navigate through the history)
+- Game history. Click through the history of actions and see how the game change accordingly (reactively).
 
-[Check the game out.](https://3qual1.github.io/tic-tac-toe-react/)
+<img src="https://github.com/3qual1/tic-tac-toe-react/blob/main/assets/demo-1.png?raw=true" width="200" alt="image showing tic tac toe game"> <img src="https://github.com/3qual1/tic-tac-toe-react/blob/main/assets/demo-2.png?raw=true" width="200" alt="image showing tic tac toe game">
 
-## General Info
+[You can check out the game here.](https://3qual1.github.io/tic-tac-toe-react/)
+
+## Info
 
 My first ever React project.
 
