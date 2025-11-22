@@ -13,6 +13,6 @@ Features:
 
 ## Notes
 
-This was first ever React project.
+This was my first ever React project.
 
 Based on the official [React documentation tutorial](https://react.dev/learn/tutorial-tic-tac-toe).
