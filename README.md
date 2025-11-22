@@ -4,7 +4,7 @@ Minimal Tic Tac Toe game built in React. Explicit state management, allowing ins
 
 Features:
 
-– State time-travel – navigate through every move and observe the board change in real time.
+- State time-travel – navigate through every move and observe the board change in real time.
 - Modern and minimal UI – completely derived from the game state.
 
 <img src="https://github.com/3qual1/tic-tac-toe-react/blob/main/assets/demo-1.png?raw=true" width="200" alt="image showing tic tac toe game"> <img src="https://github.com/3qual1/tic-tac-toe-react/blob/main/assets/demo-2.png?raw=true" width="200" alt="image showing tic tac toe game">
