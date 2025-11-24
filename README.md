@@ -7,9 +7,9 @@ Features:
 - State time-travel – navigate through every move and observe the board change in real time.
 - Modern and minimal UI – completely derived from the game state.
 
-<img src="https://github.com/3qual1/tic-tac-toe-react/blob/main/assets/demo-1.png?raw=true" width="200" alt="image showing tic tac toe game"> <img src="https://github.com/3qual1/tic-tac-toe-react/blob/main/assets/demo-2.png?raw=true" width="200" alt="image showing tic tac toe game">
+<img src="https://github.com/theparitet/tic-tac-toe-react/blob/main/assets/demo-1.png?raw=true" width="200" alt="image showing tic tac toe game"> <img src="https://github.com/theparitet/tic-tac-toe-react/blob/main/assets/demo-2.png?raw=true" width="200" alt="image showing tic tac toe game">
 
-[Live demo](https://3qual1.github.io/tic-tac-toe-react/)
+> [Live demo](https://theparitet.github.io/tic-tac-toe-react/)
 
 ## Notes
 
