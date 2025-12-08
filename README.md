@@ -2,7 +2,7 @@
 
 Minimal Tic Tac Toe game built with React. Explicit state management, allowing instant change of previous game history states. An experimental and educational project.
 
-Features:
+The game implements features such as:
 
 - State time-travel – navigate through every move and observe the board change instantly.
 - Deterministic UI – completely derived from the game state.
@@ -10,7 +10,7 @@ Features:
 
 > [Live demo](https://theparitet.github.io/tic-tac-toe-react/)
 
-<img src="https://github.com/theparitet/tic-tac-toe-react/blob/main/assets/demo-1.png?raw=true" width="200" alt="image showing tic tac toe game"> <img src="https://github.com/theparitet/tic-tac-toe-react/blob/main/assets/demo-2.png?raw=true" width="200" alt="image showing tic tac toe game">
+<img src="https://github.com/theparitet/tic-tac-toe-react/blob/main/assets/demo-1.png?raw=true" width="300" alt="image showing tic tac toe game"> <img src="https://github.com/theparitet/tic-tac-toe-react/blob/main/assets/demo-2.png?raw=true" width="300" alt="image showing tic tac toe game">
 
 ## Tech
 
@@ -22,16 +22,26 @@ Features:
 
 ## Run & Build
 
-```sh
-git clone https://github.com/theParitet/tic-tac-toe-react
+Clone the repo your preferred way. We will clone using SSH:
+```bash
+git clone git@github.com:theParitet/tic-tac-toe-react.git
+```
+
+Then go to the project's directory and install dependencies:
+```bash
 cd tic-tac-toe-react
 npm install
 ```
 
-`npm start` – to run the application locally.
+To run the application on local host:
+```bash
+npm start
+```
 
-`npm run build` – to build the application at `build/` folder.
-
+To build the application at `build/` folder:
+```bash
+npm run build
+```
 
 ## Background
 
