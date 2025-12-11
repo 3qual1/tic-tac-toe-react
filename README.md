@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-Minimal Tic Tac Toe game built with React. Explicit state management, allowing instant change of previous game history states. An experimental and educational project.
+Minimal Tic Tac Toe game built with React. Explicit state management, allowing instant change of previous game history states. An experimental and educational project ([here's the background](#background--motivation)).
 
 The game implements features such as:
 
@@ -43,8 +43,8 @@ To build the application at `build/` folder:
 npm run build
 ```
 
-## Background
+## Background & Motivation
 
-This was my first project building with React.
+This was my first project building with React and JSX. It served as a good learning experience that allowed to explore the React core concepts and principles.
 
 Based on the official [React documentation tutorial](https://react.dev/learn/tutorial-tic-tac-toe).
